@@ -17,8 +17,8 @@
 <p align="left">
 <a href="https://linkedin.com/in/subhrant mishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="subhrant mishra" height="30" width="40" /></a>
 <a href="https://instagram.com/subhrant_mis083" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="subhrant_mis083" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@subhrantmis278" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@subhrantmis278" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/subhrant_mishra25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="subhrant_mishra25" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/subhrantmis278" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/subhrantmis278" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/u/subhrant_mishra25/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/subhrant_mishra25/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
